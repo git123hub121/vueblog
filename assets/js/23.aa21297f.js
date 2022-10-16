@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[23],{560:function(t,e,n){"use strict";n.r(e);var s=n(1),l=Object(s.a)({},(function(){var t=this._self._c;return t("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[t("p",[this._v("vue2与element ui的使用")])])}),[],!1,null,null,null);e.default=l.exports}}]);
